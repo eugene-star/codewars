@@ -1,0 +1,1 @@
+﻿Console.WriteLine(HammingNumber.GetNth(10));
